@@ -14,6 +14,7 @@ textarea {
   height: 100%;
   width: 100%;
 }
+/*height and width added so that input would span the whole textarea*/
 
 .jumbotron {
   text-align: center;

@@ -1,5 +1,5 @@
 var myDay = [
-  {
+  { //Dileniates time allocations//
       id: "0",
       hour: "9:00",
       time: "09",
