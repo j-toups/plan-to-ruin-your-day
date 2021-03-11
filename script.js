@@ -67,7 +67,7 @@ var myDay = [
 
 // Gets Header Date
 function getHeaderDate() {
-  var currentHeaderDate = moment().format('dddd, MMMM');
+  var currentHeaderDate = moment().format('dddd, MMMM Do');
   $("#currentDay").text(currentHeaderDate);
 }
 
