@@ -19,3 +19,5 @@ WHEN you click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN you refresh the page
 THEN the saved events persist.
+
+![alt text](https://github.com/j-toups/plan-to-ruin-your-day/blob/c66fb1922ce52400df89a2ba50b38c78a4a4da36/Scheduler%20Capture.jpeg)S
